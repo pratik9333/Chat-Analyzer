@@ -1,2 +1,2 @@
 # Whatsapp-Chat-Analyzer
-Analyzing and extracting out person's traits and characteristics using whatsApp chats. 
+Analyzing and extracting person's behavioral patterns and characteristics using whatsapp chats.
